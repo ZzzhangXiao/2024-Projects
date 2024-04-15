@@ -1,3 +1,4 @@
+## Introduction to NewsVendor Group Problem
 This project involves utilising sales data from an e-commerce company, with an
 objective of obtaining an accurate prediction using the training data and the test data
 available. The data available includes various attributes related to the products, the
